@@ -36,5 +36,7 @@ namespace AspNetSimpleAdmin.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<AspNetSimpleAdmin.Areas.Admin.Models.RoleViewModel> RoleViewModels { get; set; }
     }
 }
