@@ -124,3 +124,5 @@ C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNe
 C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNetSimpleAdmin.csproj.CopyComplete
 C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNetSimpleAdmin.dll
 C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNetSimpleAdmin.pdb
+C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNetSimpleAdmin.Migrations.role.resources
+C:\Users\canoso\source\repos\AspNetSimpleAdmin\AspNetSimpleAdmin\obj\Debug\AspNetSimpleAdmin.csproj.GenerateResource.cache
